@@ -1,0 +1,34 @@
+[
+  {
+    "AppName": "Database",
+    "displayName": "数据库",
+    "DisplayVersion": "1.0.1",
+    "SetupName": "",
+    "DirName": "STXF_Android",
+    "DirKeyName": ""
+  },
+  {
+    "AppName": "Web",
+    "displayName": "门禁管理后台",
+    "DisplayVersion": "1.0.1",
+    "SetupName": "门禁管理后台.msi",
+    "DirName": "TDWeb",
+    "DirKeyName": "td_web_dir"
+  },
+  {
+    "AppName": "Api",
+    "displayName": "人脸门禁WebAPI服务",
+    "DisplayVersion": "1.0.1",
+    "SetupName": "人脸门禁WebApi.msi",
+    "DirName": "TDApi",
+    "DirKeyName": "td_api_dir"
+  },
+  {
+    "AppName": "Socket",
+    "displayName": "人脸门禁Socket服务",
+    "DisplayVersion": "1.0.1",
+    "SetupName": "人脸门禁Socket服务.msi",
+    "DirName": "TDSocket",
+    "DirKeyName": "td_socket_dir"
+  }
+]
